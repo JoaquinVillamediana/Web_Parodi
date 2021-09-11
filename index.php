@@ -6,13 +6,33 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Estudio Jurídico Parodi & Asoc se encuentra formado por profesionales especializados en cada rama del derecho, con una constante capacitación." />
+    <meta name="keywords" content="derecho,abogados">
+    <meta name="author" content="parodiyasociados.com.ar">
+    <link rel="canonical" href="https://parodiyasociados.com.ar">
+
+    <meta property="og:title" content="Estudio Jurídico Parodi & Asoc" />
+    <meta property="og:description" content="Estudio Jurídico Parodi & Asoc se encuentra formado por profesionales especializados en cada rama del derecho, con una constante capacitación." />
+    <meta property="og:image" content="https://parodiyasociados.com.ar/assets/img/logo.png" />
+    <meta property="og:url" content="https://parodiyasociados.com.ar" />
+    <meta property="og:site_name" content="Estudio Jurídico Parodi & Asoc" />
+    <meta property="og:type" content="website">
+
+    <meta itemprop="description" content="Estudio Jurídico Parodi & Asoc se encuentra formado por profesionales especializados en cada rama del derecho, con una constante capacitación.">
+
+    <meta name="twitter:title" content="Estudio Jurídico Parodi & Asoc">
+    <meta name="twitter:description" content="Estudio Jurídico Parodi & Asoc se encuentra formado por profesionales especializados en cada rama del derecho, con una constante capacitación.">
+    <meta name="twitter:image" content="https://parodiyasociados.com.ar/assets/img/logo.png">
+    <meta name="twitter:domain" content="parodiyasociados.com.ar">
     <title>Estudio Parodi</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
-    <script src="https://kit.fontawesome.com/9d814b3b7e.js" crossorigin="anonymous"></script>
+    <link href="./assets/bootstrap/bootstrap.min.css" rel="stylesheet">
+    <script src="./assets/bootstrap/bootstrap.bundle.min.js"></script>
+    <script src="./assets/fontawesome/9d814b3b7e.js"></script>
     <link rel="stylesheet" href="./assets/css/index.css">
     <link rel="stylesheet" href="assets/aos/aos.css">
     <script src="assets/aos/aos.js"></script>
+    <link rel="shortcut icon" href="./assets/img/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="./assets/img/favicon.ico" type="image/x-icon">
 </head>
 
 <body>
@@ -66,22 +86,22 @@
             <h5 class="desc" data-aos="fade-down" data-aos-delay="100" data-aos-duration="1000">se encuentra formado por profesionales especializados en cada rama del derecho, con una constante capacitación.</h5>
             <a href="" id="contactnow" class="btn btn-contact" data-aos="fade-down" data-aos-delay="300" data-aos-duration="1000">Contactate con nosotros</a>
         </div>
-        <img src="./assets/img/banner.jpg" alt="" class="background">
+        <img src="./assets/img/tingey-injury-law-firm-DZpc4UY8ZtY-unsplash.jpg" alt="" class="background">
     </section>
 
     <section class="about-us" id="about-us">
         <div class="container">
-            <h2 data-aos="fade-down" data-aos-delay="100" data-aos-duration="1000">Sobre Nosotros</h2>
+            <h2 data-aos="fade-down" data-aos-delay="100" data-aos-duration="1000" class="text-highlated">Sobre Nosotros</h2>
             <div class="row row-about">
                 <div class="col-md-6">
-                    <p class="desc" data-aos="fade-down" data-aos-delay="300" data-aos-duration="1000"><b>Estudio
-                            Jurídico Parodi &amp; Asoc.</b>, se encuentra formado por profesionales especializados en cada rama del derecho, con una constante capacitación.
-                        <br><br> Contamos con un plantel que desde las diferentes áreas de competencia brindando la mejor asistencia técnica y mayor efectividad en la prevención y solución en todo tipo de conflictos, siempre orientado a brindar las mayores
-                        facilidades a nuestros clientes en las diferentes ramas del derecho. <br><br> La confianza, honestidad y eficacia del servicio, son nuestros principales objetivos en cada asesoramiento y patrocinio letrado.
+                    <p class="desc" data-aos="fade-down" data-aos-delay="300" data-aos-duration="1000"><b class="text-parodi">Estudio
+                            Jurídico Parodi &amp; Asoc.</b>, se encuentra formado por profesionales <b class="text-highlated"> especializados </b>en cada rama del derecho, con una constante capacitación.
+                        <br><br> Contamos con un plantel que desde las diferentes áreas de competencia brindando la<b class="text-highlated"> mejor asistencia </b> técnica y mayor efectividad en la prevención y solución en todo tipo de conflictos, siempre orientado a brindar las mayores
+                        facilidades a nuestros clientes en las diferentes ramas del derecho. <br><br> <b class="text-highlated"> La confianza, honestidad y eficacia </b> del servicio, son nuestros principales objetivos en cada asesoramiento y patrocinio letrado.
                     </p>
                 </div>
                 <div class="col-md-6">
-                    <img data-aos="fade-down" data-aos-delay="300" data-aos-duration="1000" class="img-fluid" src="./assets/img/about.jpg" alt="">
+                    <img data-aos="fade-down" data-aos-delay="300" data-aos-duration="1000" class="img-fluid" src="./assets/img/bannerlogo.jpeg" alt="">
                 </div>
 
             </div>
@@ -91,7 +111,7 @@
 
     <section class="areas" id="specializations">
         <div class="container">
-            <h2 class="mb-5" data-aos="fade-down" data-aos-delay="100" data-aos-duration="1000">Especializaciones</h2>
+            <h2 class="mb-5 text-highlated" data-aos="fade-down" data-aos-delay="100" data-aos-duration="1000">Especializaciones</h2>
             <div class="row">
                 <div class="col-lg-4 col-item" data-aos="fade-down" data-aos-delay="200" data-aos-duration="1000">
                     <div class="content">
@@ -127,7 +147,7 @@
                 <div class="col-lg-4 col-item" data-aos="fade-down" data-aos-delay="300" data-aos-duration="1000">
                     <div class="content">
                         <div class="box">
-                            <i class="fas fa-car-crash"></i>
+                            <i class="fas fa-balance-scale"></i>
                         </div>
                         <hr>
                         <h5 class="title">Derecho Civil</h5>
@@ -139,6 +159,8 @@
                             </li>
                             <li>Daños y Perjuicios.
                             </li>
+                            <li>Sucesiones
+                            </li>
 
                         </ul>
                     </div>
@@ -146,7 +168,7 @@
                 <div class="col-lg-4 col-item" data-aos="fade-down" data-aos-delay="400" data-aos-duration="1000">
                     <div class="content">
                         <div class="box">
-                            <i class="fas fa-hard-hat"></i>
+                            <i class="fas fa-people-carry"></i>
                         </div>
                         <hr>
                         <h5 class="title">Derecho Laboral</h5>
@@ -231,6 +253,31 @@
                         </ul>
                     </div>
                 </div>
+                <div class="col-lg-4 col-item" data-aos="fade-down" data-aos-delay="700" data-aos-duration="1000">
+                    <div class="content">
+                        <div class="box">
+                            <i class="fas fa-store-alt"></i>
+                        </div>
+                        <hr>
+                        <h5 class="title">Derecho Comercial</h5>
+                        <hr>
+                        <ul>
+                            <li>Embargos
+                            </li>
+                            <li>Cheques rechazados
+                            </li>
+                            <li>Ejecuciones Fiscales
+                            </li>
+                            <li>Concursos y quiebras
+                            </li>
+                            <li>Contratos comerciales
+                            </li>
+                            <li>Franquicias
+                            </li>
+
+                        </ul>
+                    </div>
+                </div>
             </div>
         </div>
     </section>
@@ -239,10 +286,10 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
-                    <img src="./assets/img/sam-williams-UuGAw6nF0Vw-unsplash.jpg" data-aos="fade-down" data-aos-delay="100" data-aos-duration="1000" class="img-fluid" alt="">
+                    <img src="./assets/img/spain.jpeg" data-aos="fade-down" data-aos-delay="100" data-aos-duration="1000" class="img-fluid" alt="">
                 </div>
                 <div class="col-lg-6 col-text" data-aos="fade-down" data-aos-delay="100" data-aos-duration="1000">
-                    <h3>NACIONALIDAD ESPAÑOLA</h3>
+                    <h3 class="text-highlated">NACIONALIDAD ESPAÑOLA</h3>
                     <p class="desc">Si tus raíces son españolas, existe la posibilidad que puedas solicitar la nacionalidad española Ya sea por descendencia, por matrimonio o incluso por residencia legal en España gracias a los acuerdos internacionales entre países.
                         <br><br> Si tu sueño es vivir en España, también te asesoramos con los trámites para que puedas vivir legalmente allá. Analizamos todas las posibilidades de acuerdo a la normativa vigente, para que puedas optar por la mejor opción,
                         ahorres tiempo, dinero y tengas éxito en tu solicitud. No te quedes con las ganas de cumplir tu sueño de ser ciudadano español.
@@ -257,13 +304,15 @@
             <div class="row">
 
                 <div class="col-lg-6 col-text" data-aos="fade-down" data-aos-delay="100" data-aos-duration="1000">
-                    <h3>CIUDADANÍA ITALIANA</h3>
+                    <h3 class="text-highlated">CIUDADANÍA ITALIANA</h3>
                     <p class="desc">La característica principal de la forma de transmisión de la ciudadanía italiana es que se transmite de padre a hijo sin límite de generación, pero también sin cortes. <br><br> Estudiamos tu árbol genealógico para que puedas solicitar
-                        el reconocimiento de la ciudadanía, te asesoramos y también reconstruimos y armamos tu carpeta consular mediante la solicitud y traducción de todos los documentos: actas de nacimiento, matrimonio y defunción. Tramitamos el Certificado
+                        el reconocimiento de la ciudadanía, te asesoramos y también reconstruimos y armamos tu carpeta consular mediante la solicitud y traducción de todos los documentos: actas de nacimiento, matrimonio, defunción, tramitaciones de sentencias de divorcio y adopción y COSA JUZGADA. Tramitamos el Certificado
                         de No naturalización ante la Cámara Nacional Electoral y también solicitamos la documentación de tu AVO a Italia.</p>
                 </div>
                 <div class="col-lg-6">
-                    <img data-aos="fade-down" data-aos-delay="100" data-aos-duration="1000" src="./assets/img/mauricio-artieda-h7WxFNO3MNY-unsplash.jpg" class="img-fluid" alt="">
+                    <img data-aos="fade-down" data-aos-delay="100" data-aos-duration="1000" style="max-height: 400px;
+    width: 100%;
+    object-fit: cover;" src="./assets/img/italy.jpeg" class="img-fluid" alt="">
                 </div>
             </div>
 
@@ -275,9 +324,9 @@
 
             <div class="row">
                 <div class="col-lg-8">
+
                     <form action="contact.php" id="contactForm" method="post">
-                        <h2 class="text-left" data-aos="fade-down" data-aos-delay="000" data-aos-duration="1000">
-                            Contactenos</h2>
+                        <h4 class="text-highlated mb-3" data-aos="fade-down" data-aos-delay="0" data-aos-duration="1000">Contactate con nosotros</h4>
                         <div class="form-group mt-3" data-aos="fade-down" data-aos-delay="100" data-aos-duration="1000">
                             <label for="">Nombre y Apellido</label>
                             <input type="text" class="form-control" name="name" maxlength="60" placeholder="Nombre">
@@ -304,10 +353,16 @@
                 </div>
                 <div class="col-lg-4 col-info" data-aos="fade-down" data-aos-delay="300" data-aos-duration="1000">
                     <div class="content">
+                        <h4 class="text-highlated mb-3">¡También podes escribirnos en nuestras redes!</h4>
                         <div class="item">
                             <i class="fas fa-phone-square-alt"></i> <label for=""><a target="_blank" href="tel:+5491153493183">+54 9 11
                                     5349-3183</a></label>
                         </div>
+                        <div class="item">
+                            <i class="fab fa-whatsapp"></i> <label for=""><a target="_blank" href="https://api.whatsapp.com/send?phone=541153493183&app=facebook&entry_point=page_cta">+54 9 11
+                                    5349-3183</a></label>
+                        </div>
+
                         <div class="item">
                             <i class="fas fa-envelope"></i> <label for=""><a target="_blank" href="mailto:aparodi@parodiyasociados.com.ar">aparodi@parodiyasociados.com.ar</a></label>
                         </div>
@@ -320,7 +375,7 @@
                                     ASOC</a></label>
                         </div>
                         <div class="item">
-                            <i class="fab fa-twitter-square"></i><label for=""><a target="_blank" href="https://www.instagram.com/estudiojuridicoparodiyasoc/">ParodiEstudio</a></label>
+                            <i class="fab fa-twitter-square"></i><label for=""><a target="_blank" href="https://twitter.com/EstudioParodi">EstudioParodi</a></label>
                         </div>
                     </div>
                 </div>
@@ -332,7 +387,7 @@
 
 
 </body>
-<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+<script src="./assets/jquery/jquery-3.6.0.min.js"></script>
 <script>
     AOS.init({
         once: true,

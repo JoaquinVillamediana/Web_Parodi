@@ -10,11 +10,26 @@
     src: url('../fonts/LEMONMILKLight.eot') format('embedded-opentype'), url('../fonts/LEMONMILKLight.woff2') format('woff2'), url('../fonts/LEMONMILKLight.woff') format('woff'), url('../fonts/LEMONMILKLight.ttf') format('truetype'), url('../fonts/LEMONMILKLight.svg#LEMONMILKLight') format('svg');
 }
 
+@font-face {
+    font-family: 'QwertyAbility';
+    src: url('../fonts/QwertyAbility.otf') format('truetype');
+}
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: 'LEMONMILKLight';
+}
+
+.text-parodi {
+    color: #8D3A1C;
+    font-family: 'QwertyAbility';
+    font-size: 40px;
+}
+
+.text-highlated {
+    color: #8D3A1C;
 }
 
 .navbar-brand img {
@@ -43,7 +58,7 @@ section.banner img.background {
     width: 120%;
     object-fit: cover;
     height: 100%;
-    filter: contrast(0.8);
+    filter: blur(3px);
 }
 
 section.banner .row {
@@ -56,7 +71,8 @@ section.banner .row * {
 
 section.banner h1 {
     color: #fff;
-    font-size: 45px;
+    font-size: 80px;
+    font-family: 'QwertyAbility';
 }
 
 section.banner h5.desc {
@@ -149,6 +165,7 @@ section.areas .box i {
 section.areas h5.title {
     margin-top: 10px;
     font-size: 25px;
+    color: #8D3A1C;
 }
 
 section.speciality {
@@ -165,6 +182,7 @@ section.speciality .col-text {
     flex-direction: column;
     justify-content: center;
     align-items: left;
+    text-align: justify;
 }
 
 section.speciality .desc {
@@ -173,7 +191,6 @@ section.speciality .desc {
 
 section.speciality.italy .col-text {
     align-items: flex-end;
-    text-align: right;
 }
 
 section.contact {
@@ -198,7 +215,6 @@ section.contact form textarea {
 section.contact .col-info {
     display: flex;
     justify-content: center;
-    align-items: center;
 }
 
 section.contact .col-info .item {
