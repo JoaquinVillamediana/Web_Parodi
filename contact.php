@@ -8,7 +8,7 @@ if (!empty($_POST['name']) && !empty($_POST['email']) && !empty($_POST['subject'
   $message =  $_POST['message'];
 
 
-  $to =  'joacovillamediana@gmail.com';
+  $to =  'contacto@parodiyasociados.com.ar';
   $subject = "Recibiste un contacto";
   $html = '
   <html>

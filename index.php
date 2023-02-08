@@ -66,9 +66,9 @@
                     <li class="nav-item">
                         <a class="nav-link" href="#specializations">Especializaciones</a>
                     </li>
-                    <li class="nav-item">
+                    <!-- <li class="nav-item">
                         <a class="nav-link" href="#citizenship">Ciudadanias</a>
-                    </li>
+                    </li> -->
                     <li class="nav-item">
                         <a class="nav-link" href="#contact">Contacto</a>
                     </li>
@@ -112,7 +112,7 @@
     <section class="areas" id="specializations">
         <div class="container">
             <h2 class="mb-5 text-highlated" data-aos="fade-down" data-aos-delay="100" data-aos-duration="1000">Especializaciones</h2>
-            <div class="row">
+            <div class="row justify-content-center">
                 <div class="col-lg-4 col-item" data-aos="fade-down" data-aos-delay="200" data-aos-duration="1000">
                     <div class="content">
                         <div class="box">
@@ -144,7 +144,7 @@
                         </ul>
                     </div>
                 </div>
-                <div class="col-lg-4 col-item" data-aos="fade-down" data-aos-delay="300" data-aos-duration="1000">
+                <!-- <div class="col-lg-4 col-item" data-aos="fade-down" data-aos-delay="300" data-aos-duration="1000">
                     <div class="content">
                         <div class="box">
                             <i class="fas fa-balance-scale"></i>
@@ -164,7 +164,7 @@
 
                         </ul>
                     </div>
-                </div>
+                </div> -->
                 <div class="col-lg-4 col-item" data-aos="fade-down" data-aos-delay="400" data-aos-duration="1000">
                     <div class="content">
                         <div class="box">
@@ -282,7 +282,7 @@
         </div>
     </section>
 
-    <section class="speciality spain" id="citizenship">
+    <!-- <section class="speciality spain" id="citizenship">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
@@ -317,7 +317,7 @@
             </div>
 
         </div>
-    </section>
+    </section> -->
 
     <section class="contact" id="contact">
         <div class="container">
@@ -359,6 +359,9 @@
                                     5349-3183</a></label>
                         </div>
                         <div class="item">
+                            <i class="fas fa-phone-square-alt"></i> <label for=""><a target="_blank" href="tel:+5491161864297">+54 9 11 6186-4297 <sub>DERECHO PENAL Y URGENCIAS</sub></a></label>
+                        </div>
+                        <div class="item">
                             <i class="fab fa-whatsapp"></i> <label for=""><a target="_blank" href="https://api.whatsapp.com/send?phone=541153493183&app=facebook&entry_point=page_cta">+54 9 11
                                     5349-3183</a></label>
                         </div>
@@ -374,9 +377,9 @@
                                     JURIDICO PARODI &amp;
                                     ASOC</a></label>
                         </div>
-                        <div class="item">
+                        <!-- <div class="item">
                             <i class="fab fa-twitter-square"></i><label for=""><a target="_blank" href="https://twitter.com/EstudioParodi">EstudioParodi</a></label>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
 
