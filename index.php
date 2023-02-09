@@ -116,7 +116,130 @@
                 <div class="col-lg-4 col-item" data-aos="fade-down" data-aos-delay="200" data-aos-duration="1000">
                     <div class="content">
                         <div class="box">
-                            <i class="fas fa-house-user"></i>
+                            <i class="fas fa-gavel"></i>
+                        </div>
+                        <hr>
+                        <h5 class="title">Derecho Penal</h5>
+                        <hr>
+                        <ul>
+                            <li>Excarcelaci&oacute;n
+                            </li>
+                            <li>HABEAS CORPUS
+                            </li>
+                            <li>Particular Damnificado y Actor Civil
+                            </li>
+                            <li>Eximici&oacute;n de Prisi&oacute;n
+                            </li>
+                            <li>Juicio Abreviado
+                            </li>
+                            <li>Recurso Extraordinario
+                            </li>
+                            <li>Recurso de Casaci&oacute;n
+                            </li>
+                            <li>Probation
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-item" data-aos="fade-down" data-aos-delay="600" data-aos-duration="1000">
+                    <div class="content">
+                        <div class="box">
+                            <i class="fas fa-gavel"></i>
+                        </div>
+                        <hr>
+                        <h5 class="title">Derecho Penal</h5>
+                        <hr>
+                        <ul>
+                            <li>Querellas
+                            </li>
+                            <li>Delitos de violencia de g&eacute;nero
+                            </li>
+                            <li>Delitos sexuales
+                            </li>
+                            <li>Denuncias penales
+                            </li>
+                            <li>Defensas penales
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-item" data-aos="fade-down" data-aos-delay="600" data-aos-duration="1000">
+                    <div class="content">
+                        <div class="box">
+                            <i class="fas fa-gavel"></i>
+                        </div>
+                        <hr>
+                        <h5 class="title">Departamento Penal</h5>
+                        <hr>
+                        <p class="text-center">Somos <b>ESPECIALISTAS</b> en <b>DERECHO PENAL</b> <br>
+                            Matriculados en <br> <b>CABA</b> <br><b>PROV. DE BUENOS AIRES</b></p>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-item" data-aos="fade-down" data-aos-delay="200" data-aos-duration="1000">
+                    <div class="content">
+                        <div class="box">
+                            <i class="fas fa-user-friends"></i>
+                        </div>
+                        <hr>
+                        <h5 class="title">Derecho Societario</h5>
+                        <hr>
+                        <p class="text-center"><b>TR&Aacute;MITES ANTE LA IGJ (CABA)</b> <br>
+                            Constituci&oacute;n de sociedades comerciales (S.A. - S.R.L.) <br>
+                            Inscripci&oacute;n de autoridades (Art 60 Ley 19.550) <br>
+                            Cesi&oacute;n de cuotas SRL <br>
+                            Cambio de sede social <br>
+                            Otras modificaciones estatutarias <br>
+                            Presentaci&oacute;n de balance S.A. ante la IGJ
+                        </p>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-item" data-aos="fade-down" data-aos-delay="200" data-aos-duration="1000">
+                    <div class="content">
+                        <div class="box">
+                            <i class="fas fa-file-invoice-dollar"></i>
+                        </div>
+                        <hr>
+                        <h5 class="title">Derecho Tributario</h5>
+                        <hr>
+                        <ul>
+                            <li>AFIP
+                            </li>
+                            <li>AGIP
+                            </li>
+                            <li>ARBA
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-item" data-aos="fade-down" data-aos-delay="700" data-aos-duration="1000">
+                    <div class="content">
+                        <div class="box">
+                            <i class="fas fa-store-alt"></i>
+                        </div>
+                        <hr>
+                        <h5 class="title">Derecho Comercial</h5>
+                        <hr>
+                        <ul>
+                            <li>Embargos
+                            </li>
+                            <li>Cheques rechazados
+                            </li>
+                            <li>Ejecuciones Fiscales
+                            </li>
+                            <li>Concursos y quiebras
+                            </li>
+                            <li>Contratos comerciales
+                            </li>
+                            <li>Franquicias
+                            </li>
+
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-item" data-aos="fade-down" data-aos-delay="200" data-aos-duration="1000">
+                    <div class="content">
+                        <div class="box">
+                            <i class="fas fa-gavel"></i>
                         </div>
                         <hr>
                         <h5 class="title">Derecho de Familia</h5>
@@ -144,6 +267,7 @@
                         </ul>
                     </div>
                 </div>
+
                 <!-- <div class="col-lg-4 col-item" data-aos="fade-down" data-aos-delay="300" data-aos-duration="1000">
                     <div class="content">
                         <div class="box">
@@ -253,31 +377,7 @@
                         </ul>
                     </div>
                 </div>
-                <div class="col-lg-4 col-item" data-aos="fade-down" data-aos-delay="700" data-aos-duration="1000">
-                    <div class="content">
-                        <div class="box">
-                            <i class="fas fa-store-alt"></i>
-                        </div>
-                        <hr>
-                        <h5 class="title">Derecho Comercial</h5>
-                        <hr>
-                        <ul>
-                            <li>Embargos
-                            </li>
-                            <li>Cheques rechazados
-                            </li>
-                            <li>Ejecuciones Fiscales
-                            </li>
-                            <li>Concursos y quiebras
-                            </li>
-                            <li>Contratos comerciales
-                            </li>
-                            <li>Franquicias
-                            </li>
 
-                        </ul>
-                    </div>
-                </div>
             </div>
         </div>
     </section>
